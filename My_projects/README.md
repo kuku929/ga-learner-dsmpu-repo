@@ -1,6 +1,6 @@
 ### Project Overview
 
- this project is a complete implementation of numpy and indexind, slicing and other basic functions of numpy.
+ this project is a complete implementation of numpy and indexing, slicing and other basic functions of numpy.
 
 
 ### Learnings from the project
