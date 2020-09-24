@@ -1,0 +1,1 @@
+In this project, I have calculated the probability of an event happening provided some events are already give, there is an awesome implementation of bayes' theorem
